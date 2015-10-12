@@ -1,0 +1,7 @@
+.recipe-ingredients input {
+    float: left;
+}
+
+.recipe-ingredients label {
+    font-weight: normal;
+}
